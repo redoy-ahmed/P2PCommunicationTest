@@ -80,7 +80,7 @@
             android:orientation="horizontal"
             android:background="@color/teal_800">
 
-            <no.bouvet.p2pcommunication.util.button.DiscoveryButton
+            <com.redoyp2pcommunicationtest.util.button.DiscoveryButton
                 android:id="@+id/left_bottom_button"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -88,7 +88,7 @@
                 android:textColor="@color/white"
                 style="?android:attr/buttonBarButtonStyle"/>
 
-            <no.bouvet.p2pcommunication.util.button.ConnectionButton
+            <com.redoyp2pcommunicationtest.util.button.ConnectionButton
                 android:id="@+id/right_bottom_button"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
